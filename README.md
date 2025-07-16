@@ -288,4 +288,6 @@ Letta is an open source project built by over a hundred contributors. There are 
 
 ---
 
+RUN
+
 ***Legal notices**: By using Letta and related Letta services (such as the Letta endpoint or hosted service), you are agreeing to our [privacy policy](https://www.letta.com/privacy-policy) and [terms of service](https://www.letta.com/terms-of-service).*
